@@ -2,5 +2,10 @@ Hello World!111
 Hello World!
 Hello World!333
 Hello from duaa pc
+Cin>> value
 system.out.println("hello from duaa pc and israa input")
 Hello
+system.out.println("hello from duaa pc and israa input")
+Hello World!
+Hi from Israa ahmad
+Hi next time from israa
