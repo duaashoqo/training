@@ -7,3 +7,5 @@ system.out.println("hello from duaa pc and israa input")
 Hello World!
 Hi from Israa ahmad
 Hi next time from israa
+Hekkkkk
+Hello
