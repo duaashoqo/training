@@ -3,3 +3,6 @@ Hello World!
 Hello World!333
 Hello from duaa pc
 Cin>> value
+Hello World!
+Hi from Israa ahmad
+Hi next time from israa
